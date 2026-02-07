@@ -30,11 +30,13 @@ java cowsandbulls
 ## Code Explanation
 
 **Сonnected classes**
+
     * The program uses the HashSet class to store unique values.
     * The Random class is used to generate a random number by the computer.
     * The JOptionPane class is used for the GUI
 
 **Checking the input:**
+
     * number length (4 digits) 
     * first number is not 0 
     * all characters are digits 
